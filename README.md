@@ -45,6 +45,6 @@ Fork the repository.
 4. Create a new Pull Request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-```bash
-Replace `fahadali323` and `htmlCssProfile` with your actual GitHub username and repository name. You can remove or adjust the badges if they are not applicable. If you need further customization, feel free to modify the template according to your project's specifics.
+
+This project is licensed under the MIT License - see the [README](README.md) file for more information.
+
